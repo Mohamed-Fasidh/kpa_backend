@@ -4,7 +4,7 @@ __pycache__/
 *.egg-info/
 
 # Virtual Environment
-env/
+
 venv/
 
 # VS Code
